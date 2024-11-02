@@ -1,0 +1,11 @@
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Practica 12\Practica 12\bin\Debug\Practica 12.exe.config
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Practica 12\Practica 12\bin\Debug\Practica 12.exe
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Practica 12\Practica 12\bin\Debug\Practica 12.pdb
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Practica 12\Practica 12\obj\Debug\Practica 12.csproj.AssemblyReference.cache
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Practica 12\Practica 12\obj\Debug\Practica_12.Form1.resources
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Practica 12\Practica 12\obj\Debug\Practica_12.Properties.Resources.resources
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Practica 12\Practica 12\obj\Debug\Practica 12.csproj.GenerateResource.cache
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Practica 12\Practica 12\obj\Debug\Practica 12.csproj.CoreCompileInputs.cache
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Practica 12\Practica 12\obj\Debug\Practica 12.exe
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Practica 12\Practica 12\obj\Debug\Practica 12.pdb
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Practica 12\Practica 12\bin\Debug\imagenes\coche.png

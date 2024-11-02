@@ -1,0 +1,10 @@
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Reemplazar valor\Reemplazar valor\bin\Debug\Reemplazar valor.exe.config
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Reemplazar valor\Reemplazar valor\bin\Debug\Reemplazar valor.exe
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Reemplazar valor\Reemplazar valor\bin\Debug\Reemplazar valor.pdb
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Reemplazar valor\Reemplazar valor\obj\Debug\Reemplazar valor.csproj.AssemblyReference.cache
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Reemplazar valor\Reemplazar valor\obj\Debug\Reemplazar_valor.Form1.resources
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Reemplazar valor\Reemplazar valor\obj\Debug\Reemplazar_valor.Properties.Resources.resources
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Reemplazar valor\Reemplazar valor\obj\Debug\Reemplazar valor.csproj.GenerateResource.cache
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Reemplazar valor\Reemplazar valor\obj\Debug\Reemplazar valor.csproj.CoreCompileInputs.cache
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Reemplazar valor\Reemplazar valor\obj\Debug\Reemplazar valor.exe
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Reemplazar valor\Reemplazar valor\obj\Debug\Reemplazar valor.pdb
